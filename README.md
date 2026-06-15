@@ -1,4 +1,4 @@
-# NHS A&E Performance Analysis — February 2026
+# NHS A&E Performance Analysis - February 2026
 
 ## Project Overview
 Brief description of what the project analyses and why it matters.
