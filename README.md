@@ -1,6 +1,5 @@
 # NHS A&E Performance Analysis – February 2026
-
-## Project Overview
+Cleaned and modelled five sheets of real NHS England A&E attendance data covering 197 trusts and 42 ICS regions. 
 Brief description of what the project analyses and why it matters.
 
 ## Key Findings
