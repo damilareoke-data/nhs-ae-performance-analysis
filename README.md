@@ -11,11 +11,11 @@ Brief description of what the project analyses and why it matters.
 - 99.62% of demand is unplanned walk-in
 
 ## Tools Used
-- Microsoft Excel — data cleaning, Power Query, calculated columns
-- Power BI Desktop — data modelling, DAX measures, five-page dashboard
+- Microsoft Excel - data cleaning, Power Query, calculated columns
+- Power BI Desktop - data modelling, DAX measures, five-page dashboard
 
 ## Data Source
-NHS England A&E Attendances and Emergency Admissions — February 2026
+NHS England A&E Attendances and Emergency Admissions - February 2026
 Open Government Licence
 
 ## Dashboard Pages
