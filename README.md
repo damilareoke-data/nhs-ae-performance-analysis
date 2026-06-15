@@ -30,3 +30,4 @@ Open Government Licence
 <img width="1500" height="854" alt="03_trust_level_analysis" src="https://github.com/user-attachments/assets/208629c7-8414-4f76-a1c2-28c2c1269c9a" />
 <img width="1500" height="853" alt="04_demand_and_capacity" src="https://github.com/user-attachments/assets/530d33c7-f689-493d-ad6b-8cc5b0a581b5" />
 <img width="1500" height="854" alt="05_data_quality" src="https://github.com/user-attachments/assets/28e6e455-ca1f-499c-9509-d97162782a15" />
+<img width="1997" height="249" alt="data_cleaning_notes" src="https://github.com/user-attachments/assets/104c0966-95cb-41b5-8c5a-15a33b0539d5" />
